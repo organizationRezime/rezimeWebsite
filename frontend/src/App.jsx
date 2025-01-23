@@ -7,7 +7,7 @@ import HomePage from './pages/HomePage';
 import AppLayout from './layout/AppLayout';
 import TermsAndConditions from './pages/TermsAndConditions';
 import CertificateValidatePage from './pages/CertificateValidatePage';
-import Careers from './pages/careers';
+import Careers from './pages/Careers';
 import ErrorPage from './pages/ErrorPage';
 import About from './pages/About';
 import Contact from './pages/Contact';
